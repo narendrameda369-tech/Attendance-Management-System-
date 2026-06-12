@@ -148,6 +148,12 @@ The Attendance Management System provides an efficient and reliable solution for
 
 **Narendra Meda**
 
+2025decbt10126
+
+ece-02
+
+vvitu
+
 Python Mini Project
 
 Academic Year: 2025-2026
