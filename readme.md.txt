@@ -33,3 +33,13 @@ This project helps automate attendance management, reduces manual paperwork, imp
 ### Developed By
 
 Narendra Meda
+
+2025decbt10126
+
+ece-02
+
+vvitu
+
+Python Mini Project
+
+Academic Year: 2025-2026
